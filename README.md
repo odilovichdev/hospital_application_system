@@ -8,8 +8,3 @@ packages and tools to start a new Django project. It includes the following:
 *   All apps are stored in the `apps` folder to keep the project structure clean and
     organized
 *   A service layer to make testing easier
-
-# bolalar_uchun
-# new_boilerplate
-# UzChess
-# hospital_application_system
